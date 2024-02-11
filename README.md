@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cgrundman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cgrundman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cgrundman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cgrundman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cgrundman&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
