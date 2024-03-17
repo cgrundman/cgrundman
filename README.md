@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" title="SciKitLearn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50" title="Keras"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" title="Numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50" title="Plotly"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" title="matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50" title="MATLAB"/>
@@ -47,8 +47,8 @@
   <h4>Backend</h4>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="50" title="Heroku"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" title="Flask"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" title="Django"/>
+    <img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" width="50" title="Flask"/>
+    <img src="https://www.svgviewer.dev/static-svgs/475949/django.svg" width="50" title="Django"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" title="SQLite"/>
   </div>
@@ -57,7 +57,7 @@
 <div>
   <h4>DevOps</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" title="Docker"/>
 </div>
 
