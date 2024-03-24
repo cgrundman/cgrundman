@@ -31,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" title="Raspberry Pi"/>
+  <img src="https://www.techmezine.com/wp-content/uploads/2017/03/STMicroelectronicslogo.png" width="50" title="STM32"/>
+  <img src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo.png" width="50" title="STM32"/>
 </div>
 </div>
 
