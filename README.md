@@ -13,8 +13,8 @@
   </a>
 </p>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Credentials
+<img src="https://netmind.net/wp-content/uploads/2023/01/pmp-600px-removebg-preview.png" width="200"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ctgrundm) 
