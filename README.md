@@ -14,7 +14,10 @@
 </p>
 
 ## Credentials
-<img src="https://netmind.net/wp-content/uploads/2023/01/pmp-600px-removebg-preview.png" width="200"/>
+<div>
+  <img src="https://isapm.org/wp-content/uploads/2024/02/PMP-512.png" width="200"/>
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="200"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ctgrundm) 
