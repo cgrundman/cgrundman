@@ -4,7 +4,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cgrundman&theme=dark&hide_border=false)<br/>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cgrundman&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=cgrundman&theme=darkhub&no-frame=true&no-bg=false&row=2&column=5&no-bg=true)
 
 # 💻 Tech Stack:
 <p align="left">
