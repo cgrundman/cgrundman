@@ -15,8 +15,8 @@
 
 ## Credentials
 <div>
-  <img src="https://images.credly.com/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/twitter_thumb_201604_blob" width="200"/>
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="200"/>
+  <img src="https://images.credly.com/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/twitter_thumb_201604_blob" width="140"/>
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="140"/>
 </div>
 
 ## 🌐 Socials:
