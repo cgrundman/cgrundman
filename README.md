@@ -16,9 +16,7 @@
 ## Credentials
 <div>
   <img src="https://images.credly.com/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/twitter_thumb_201604_blob" width="140"/>
-  <img src="https://images.credly.com/size/340x340/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png" width="70"/>
-  <img src="https://images.credly.com/size/340x340/images/25ac1873-b138-4a41-89f7-fd4d71ead781/image.png" width="70"/>
-  <img src="https://images.credly.com/size/340x340/images/d07c53fa-70c9-48da-b3f6-ffdaa60d10fe/image.png" width="70"/>
+  <img src="https://github.com/cgrundman/cgrundman/blob/main/gen_ai.png" width="140"/>
 </div>
 
 <div>
