@@ -9,7 +9,7 @@
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,scikitlearn,matlab,c,cpp,ros,arduino,raspberrypi,html,css,bootstrap,javascript,ts,react,redux,angular,threejs,svg,aws,heroku,firebase,flask,django,mysql,sqlite,git,github,docker,selenium,windows,linux,ubuntu,debian" heigth="40"/>
+    <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,scikitlearn,matlab,c,cpp,ros,arduino,raspberrypi,html,css,bootstrap,javascript,react,redux,ts,angular,threejs,svg,aws,heroku,firebase,flask,django,mysql,sqlite,git,github,docker,selenium,windows,linux,ubuntu,debian" heigth="40"/>
   </a>
 </p>
 
