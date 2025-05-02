@@ -17,7 +17,7 @@
 <div>
   <img src="https://images.credly.com/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/twitter_thumb_201604_blob" width="140"/>
   <img src="https://github.com/cgrundman/cgrundman/blob/main/gen_ai.png" width="140"/>
-  <img src="https://github.com/cgrundman/cgrundman/blob/main/cd_badges.png" width="140"/>
+  <img src="https://github.com/cgrundman/cgrundman/blob/main/cd.png" width="140"/>
 </div>
 
 <div>
