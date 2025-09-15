@@ -16,8 +16,12 @@
 ## 📜 Certifications:
 <div>
   <img src="https://images.credly.com/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/twitter_thumb_201604_blob" width="140"/>
-  <img src="https://github.com/cgrundman/cgrundman/blob/main/gen_ai.png" width="120"/>
-  <img src="https://github.com/cgrundman/cgrundman/blob/main/cd.png" width="120"/>
+  <img src="https://images.credly.com/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" width="60"/>
+  <img src="https://images.credly.com/images/8eca8083-1281-4483-8608-03372739e1e7/blob" width="60"/>
+  <img src="https://images.credly.com/images/0c4e1dd5-5d3c-4974-9720-e09af4302e5e/blob" width="60"/>
+  <img src="https://images.credly.com/images/aa42e8b5-b36d-4b8c-abbe-c6a6f51fd7d9/blob" width="60"/>
+  <img src="https://images.credly.com/images/f6ff42b7-f84e-4ff5-8d0b-cca8289af93b/blob" width="60"/>
+  <img src="https://images.credly.com/images/06f29f7e-e735-4a3f-981e-e8b9771bf868/blob" width="60"/>
 </div>
 
 <div>
