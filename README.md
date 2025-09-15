@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=cgrundman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cgrundman&theme=dark&hide_border=false)<br/>
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=cgrundman&theme=darkhub&no-frame=true&no-bg=false&row=2&column=5&no-bg=true)
 
 # 💻 Tech Stack:
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## 📜 Certifications
+## 📜 Certifications:
 <div>
   <img src="https://images.credly.com/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/twitter_thumb_201604_blob" width="140"/>
   <img src="https://github.com/cgrundman/cgrundman/blob/main/gen_ai.png" width="140"/>
@@ -24,7 +24,7 @@
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="140"/>
 </div>
 
-## 🗣 Languages
+## 🗣 Languages:
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/usa-flag-round-circle-icon.png" width="30" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/germany-flag-round-circle-icon.png" width="30" />
