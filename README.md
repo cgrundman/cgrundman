@@ -22,6 +22,7 @@
   <img src="https://images.credly.com/images/aa42e8b5-b36d-4b8c-abbe-c6a6f51fd7d9/blob" width="60"/>
   <img src="https://images.credly.com/images/f6ff42b7-f84e-4ff5-8d0b-cca8289af93b/blob" width="60"/>
   <img src="https://images.credly.com/images/06f29f7e-e735-4a3f-981e-e8b9771bf868/blob" width="60"/>
+  <img src="https://images.credly.com/images/73a3877d-afd4-42e3-bd8d-e20df4bbb2da/blob" width="60"/>
 </div>
 
 <div>
